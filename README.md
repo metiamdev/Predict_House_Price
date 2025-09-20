@@ -10,7 +10,6 @@ We use Multiple Linear Regression (MLR) to model the relationship between these 
 # 2.Dataset
 The dataset used in this project is stored in a CSV file named house_price_regression_dataset.csv.
 It contains the following columns : 
-
 <br>
 ◉ Square_Footage → Total area of the house.
 <br>
